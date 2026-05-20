@@ -1,3 +1,19 @@
+
+LIVE DEMO 
+https://myfinallab.vercel.app
+screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7f7b10c-0014-477a-8aa0-92729ffc31da" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e7d4432-9a9d-46fb-b469-d28a99ff1223" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1085e6a-31f0-4530-89a8-2263ade53ca2" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8068d756-4582-408b-90c8-245783e418a6" />
+
+
+
+
+
 # VoteSecure — Secure Online Election Management System
 
 A full-stack, production-ready election management platform built with **React + Supabase**.
