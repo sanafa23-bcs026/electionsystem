@@ -9,10 +9,13 @@ import { format } from 'date-fns'
 
 const VoterDashboard = () => {
   const { profile } = useAuth()
+  if (!profile) return null
 
   const [myPolls, setMyPolls] = useState([])
   const [loading, setLoading] = useState(true)
-
+useEffect(() => { 
+  if (profile?.id) fetchMyPolls() 
+}, [profile])
   useEffect(() => {
     if (profile?.id) {
       fetchMyPolls()
